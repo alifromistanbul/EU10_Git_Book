@@ -10,3 +10,7 @@ maintainer. As with most other distributed version control systems, and unlike m
 every Git directory on every computer is a full-fledged repository with complete history and full version-tracking
 abilities, independent of network access or a central server.[13] Git is free and open-source software distributed
 under the GPL-2.0-only license.
+
+page 2
+text
+ page 2 more information
