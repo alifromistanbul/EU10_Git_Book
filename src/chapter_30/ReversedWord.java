@@ -13,6 +13,7 @@ public class ReversedWord {
             char ch = word.charAt(i);
             reversed += ch;
         }
+
         System.out.println(reversed);
 
     }
